@@ -8,7 +8,7 @@
 
 ## 🚀 Key Features
 
-- 🔒 **Immutable base system** via Zenkai Updater
+- 🔒 **Immutable base system** via ALDM Updater
 - 🎮 **Gaming-Ready** out of the box with Steam, Heroic, Lutris and more...
 - 📦 **Flatpak-first** approach for all user apps
 
