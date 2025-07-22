@@ -13,7 +13,7 @@
 - 📦 **Flatpak-first** approach for all user apps
 
 ## 📥 Installation Process
-> Requirments x86_64 system, 4 GB RAM, 50 GB Space
+> Requirments x86_64 system, 4 GB RAM, 55 GB Space
 
 ### By ISO
 - Not Ready Yet
